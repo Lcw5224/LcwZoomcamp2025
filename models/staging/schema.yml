@@ -1,0 +1,9 @@
+verison: 2
+
+sources:
+  - name: staging
+    database: supple-student-453312-q3
+    schema: trips_data_all
+
+    tables:
+      - name: green_tripdata
